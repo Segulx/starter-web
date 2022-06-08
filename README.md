@@ -8,6 +8,12 @@ Simple website
 
 ## Purpose
 
+To be a simple website
+
 ## Deployment
 
+Download and run on any webserver
+
 ## How To Contribute
+
+Paypal
