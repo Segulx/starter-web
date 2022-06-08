@@ -4,6 +4,8 @@ Simple website for git training.
 
 ## Introduction
 
+Simple website
+
 ## Purpose
 
 ## Deployment
