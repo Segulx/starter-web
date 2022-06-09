@@ -20,4 +20,4 @@ Paypal bank
 
 ## Copyright
 
-Belongs to 2022
+Belongs to 2022. ALL RIGHTS
