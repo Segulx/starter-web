@@ -17,7 +17,7 @@ Yes yes yes
 
 ## How To Contribute
 
-Paypal bank
+Paypal bank, yes
 
 ## Copyright
 
