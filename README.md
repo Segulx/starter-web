@@ -12,7 +12,8 @@ To be a simple website
 
 ## Deployment
 
-Download and run on any webserver
+Download and run on any webserver.
+Yes yes yes
 
 ## How To Contribute
 
