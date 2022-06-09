@@ -16,7 +16,7 @@ Download and run on any webserver
 
 ## How To Contribute
 
-Paypal
+Paypal bank
 
 ## Copyright
 
