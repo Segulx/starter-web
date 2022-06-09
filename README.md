@@ -4,7 +4,7 @@ Simple website for git training.
 
 ## Introduction
 
-Simple website
+Simple website. Add more text
 
 ## Purpose
 
