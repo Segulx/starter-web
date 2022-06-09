@@ -17,3 +17,7 @@ Download and run on any webserver
 ## How To Contribute
 
 Paypal
+
+## Copyright
+
+Belongs to me
